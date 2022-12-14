@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.task {
+  margin: 5px;
+}
+
+.btn {
+  margin-left: 4px;
+}
+
+.active {
+  text-decoration: line-through;
+  color: red;
+  margin: 12px;
+}
+
+/* .null{
+  text-decoration: none;
+  color:green;
+} */
